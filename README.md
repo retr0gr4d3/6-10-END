@@ -1,5 +1,5 @@
 # 6-10/END
-“SIX-TEN-END”. Requires Windows and [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+“SIX-TEN-END”. Requires Windows and [.NET 5](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
 Project STE is an attempt at making certain windows functionality...
 Interesting.
