@@ -1,2 +1,12 @@
-# 6-10-END
-“SIX-TEN-END”. Take a gamble, who knows what you might win?
+# 6-10/END
+“SIX-TEN-END”.
+
+Project STE is an attempt at making certain windows functionality...
+Interesting.
+Gamble your chances in a series of five games. Pick one, and pray to RNG Jesus.
+
+Current game modes are;
+6 (SIX), 7 (SEVEN), 8 (EIGHT), 9 (NINE) and 10 (TEN).
+Simply press one, and hopefully you won't see any magic happen.
+
+Be responsible ;)
